@@ -1,6 +1,6 @@
 # Configuration Docker pour Consul et Vault
 
-Ce projet, développé par Ousmane Diop, fournit une configuration Docker pour exécuter HashiCorp Consul et Vault ensemble. Il offre un moyen rapide et facile de démarrer avec ces puissants outils pour la découverte de services, la gestion de configuration et la gestion des secrets.
+Ce projet fournit une configuration Docker pour exécuter HashiCorp Consul et Vault ensemble. Il offre un moyen rapide et facile de démarrer avec ces puissants outils pour la découverte de services, la gestion de configuration et la gestion des secrets.
 
 ## Prérequis
 
