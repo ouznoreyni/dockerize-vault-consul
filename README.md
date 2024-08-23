@@ -39,7 +39,7 @@ docker-consul-vault/
 
 1. Clonez ce dépôt :
    ```
-   git clone [<url-du-dépôt>](https://github.com/ouznoreyni/dockerize-vault-consul)
+   git clone https://github.com/ouznoreyni/dockerize-vault-consul
    cd docker-consul-vault
    ```
 
