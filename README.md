@@ -40,7 +40,7 @@ docker-consul-vault/
 1. Clonez ce dépôt :
    ```
    git clone https://github.com/ouznoreyni/dockerize-vault-consul
-   cd docker-consul-vault
+   cd dockerize-vault-consul
    ```
 
 2. Assurez-vous que le script de démarrage a les bonnes permissions :
