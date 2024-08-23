@@ -1,6 +1,6 @@
 FROM alpine:3.14
 
-ENV CONSUL_VERSION 1.10.2
+ENV CONSUL_VERSION 1.19.1
 
 RUN apk --no-cache add \
     bash \

@@ -1,6 +1,6 @@
 FROM alpine:3.14
 
-ENV VAULT_VERSION 1.8.2
+ENV VAULT_VERSION 1.17.3
 
 RUN apk --no-cache add \
     bash \
