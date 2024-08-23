@@ -1,0 +1,16 @@
+{
+    "path": {
+        "kv/data/apps/*": {
+        "policy": "read"
+        },
+      "secret/data/apps/*": {
+        "capabilities": ["read", "list"]
+      },
+      "secret/metadata/apps/*": {
+        "capabilities": ["list", "read"]
+      },
+      "auth/token/create": {
+        "capabilities": ["create", "update"]
+      }
+    }
+  }

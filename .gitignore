@@ -1,0 +1,91 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Consul Data
+consul/data/
+
+# Vault Data
+vault/data/
+vault/logs/
+
+# Docker volumes
+*.rdb
+
+# Sensitive Information
+*.pem
+*.key
+*.crt
+tokens.txt
+
+# Environment Variables
+.env
+.env.*
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+
+# Node modules (if you're using any Node.js tools)
+node_modules/
+
+# Python (if you're using any Python scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ruby (if you're using any Ruby scripts)
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+# Terraform (if you're using Terraform)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+tokens.txt
